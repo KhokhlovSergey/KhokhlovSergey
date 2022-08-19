@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhokhlovSergey
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning data analitics, SQL, python/
+- 🌱 I’m currently learning data analitics, SQL, Python.
 - 📫 How to reach me gizze@bk.ru, Telegram @gizze
 
 <!---
